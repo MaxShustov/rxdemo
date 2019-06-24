@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rxdemo.console", "rxdemo.console\rxdemo.console.csproj", "{2EB7F78E-24A7-4162-BFF1-B07F32C00857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rxdemo.core", "rxdemo.core\rxdemo.core.csproj", "{A7659BBB-6988-43F5-8E89-395D2B70C378}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rxdemo.droid", "rxdemo.droid\rxdemo.droid.csproj", "{B224CABE-C7B3-42CE-AA28-8BFB567CB43D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rxdemo.tests", "rxdemo.tests\rxdemo.tests.csproj", "{0E263EE9-7EAA-4367-8CFE-8EAD434AC1A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EB7F78E-24A7-4162-BFF1-B07F32C00857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB7F78E-24A7-4162-BFF1-B07F32C00857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB7F78E-24A7-4162-BFF1-B07F32C00857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB7F78E-24A7-4162-BFF1-B07F32C00857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7659BBB-6988-43F5-8E89-395D2B70C378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7659BBB-6988-43F5-8E89-395D2B70C378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7659BBB-6988-43F5-8E89-395D2B70C378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7659BBB-6988-43F5-8E89-395D2B70C378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B224CABE-C7B3-42CE-AA28-8BFB567CB43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B224CABE-C7B3-42CE-AA28-8BFB567CB43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B224CABE-C7B3-42CE-AA28-8BFB567CB43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B224CABE-C7B3-42CE-AA28-8BFB567CB43D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E263EE9-7EAA-4367-8CFE-8EAD434AC1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E263EE9-7EAA-4367-8CFE-8EAD434AC1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E263EE9-7EAA-4367-8CFE-8EAD434AC1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E263EE9-7EAA-4367-8CFE-8EAD434AC1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
