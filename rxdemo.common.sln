@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rxdemo.droid", "rxdemo.droi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rxdemo.tests", "rxdemo.tests\rxdemo.tests.csproj", "{0E263EE9-7EAA-4367-8CFE-8EAD434AC1A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rxdemo.core.mvvmcross", "rxdemo.core.mvvmcross\rxdemo.core.mvvmcross.csproj", "{32756F3A-4DEC-4F51-A560-6165C1117F7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,5 +33,9 @@ Global
 		{0E263EE9-7EAA-4367-8CFE-8EAD434AC1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E263EE9-7EAA-4367-8CFE-8EAD434AC1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E263EE9-7EAA-4367-8CFE-8EAD434AC1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32756F3A-4DEC-4F51-A560-6165C1117F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32756F3A-4DEC-4F51-A560-6165C1117F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32756F3A-4DEC-4F51-A560-6165C1117F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32756F3A-4DEC-4F51-A560-6165C1117F7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

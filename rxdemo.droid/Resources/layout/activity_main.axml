@@ -17,4 +17,8 @@
     <TextView android:id="@+id/FullName"
               android:layout_width="match_parent"
               android:layout_height="wrap_content"/>
-</RelativeLayout>
+    <Button android:id="@+id/SearchButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Search"/>
+</LinearLayout>
